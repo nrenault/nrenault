@@ -1,7 +1,5 @@
 # Hi 👋, I'm Nicolas
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nrenault&label=Profile views&color=0e75b6&style=flat" alt="nrenault" /> </p>
-
 <p align="left"> <a href="https://twitter.com/nrenault" target="blank"><img src="https://img.shields.io/twitter/follow/nrenault?logo=twitter" alt="nrenault" /></a> </p>
 
 <p align="left"><a href="https://stackoverflow.com/users/8657570/nrenault" target="blank"><img src="https://stackoverflow-badge.onrender.com/api/StackOverflowBadge/8657570"></a> </p>
