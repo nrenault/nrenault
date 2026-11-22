@@ -1,8 +1,8 @@
 name: Production smoke test
 
 on:
-  schedule:
-    - cron: '*/15 * * * *'
+  push:
+    branches: [main]
   workflow_dispatch:
 
 permissions:
